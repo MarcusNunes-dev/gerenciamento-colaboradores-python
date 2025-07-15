@@ -1,8 +1,8 @@
-# 👥 Sistema de Cadastro de Funcionários
+# Sistema de Cadastro de Funcionários
 
 Este projeto é um sistema simples em Python que permite o cadastro, consulta e remoção de funcionários em uma lista de dados em tempo de execução (sem banco de dados).
 
-## 🧩 Funcionalidades
+## Funcionalidades
 
 - **Cadastro de funcionários** com:
   - ID automático e incremental
@@ -14,7 +14,7 @@ Este projeto é um sistema simples em Python que permite o cadastro, consulta e 
 - **Remoção de funcionários** por ID
 - **Menu interativo em loop** até o encerramento
 
-## 🖥️ Exemplo de uso
+## Exemplo de uso
 
 ```bash
 MENU PRINCIPAL
@@ -29,10 +29,11 @@ MENU PRINCIPAL
 > Digite o salario do funcionário: R$ 2500
 
 Funcionario cadastrado com sucesso! ID: 1
-🛠️ Tecnologias
+
+Tecnologias
 Python 3.x
 
-🔒 Limitações
+Limitações
 Os dados não são salvos após o encerramento do programa.
 
 Sistema sem interface gráfica (rodado no terminal).
