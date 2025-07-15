@@ -16,7 +16,6 @@ Este projeto é um sistema simples em Python que permite o cadastro, consulta e 
 
 ## Exemplo de uso
 
-```bash
 MENU PRINCIPAL
 1 - Cadastrar Funcionario
 2 - Consultar Funcionario
