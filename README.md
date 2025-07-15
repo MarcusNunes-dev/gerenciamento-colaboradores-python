@@ -27,7 +27,7 @@ MENU PRINCIPAL
 > Digite o setor do funcionário: RH
 > Digite o salario do funcionário: R$ 2500
 
-Funcionario cadastrado com sucesso! ID: 1```
+Funcionario cadastrado com sucesso! ID: 1
 
 Tecnologias
 Python 3.x
