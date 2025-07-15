@@ -15,7 +15,7 @@ Este projeto é um sistema simples em Python que permite o cadastro, consulta e 
 - **Menu interativo em loop** até o encerramento
 
 ## Exemplo de uso
-
+```bash
 MENU PRINCIPAL
 1 - Cadastrar Funcionario
 2 - Consultar Funcionario
@@ -27,7 +27,7 @@ MENU PRINCIPAL
 > Digite o setor do funcionário: RH
 > Digite o salario do funcionário: R$ 2500
 
-Funcionario cadastrado com sucesso! ID: 1
+Funcionario cadastrado com sucesso! ID: 1```
 
 Tecnologias
 Python 3.x
